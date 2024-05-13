@@ -1,6 +1,3 @@
-FROM node
-WORKDIR /app
+FROM nginx
 
-COPY . /app/
-
-RUN npm install
+COPY ./ /usr/share/nginx/html
