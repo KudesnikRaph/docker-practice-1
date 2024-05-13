@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "express": "^4.19.2",
+    "makefile": "^0.0.2",
+    "nginx": "^1.0.8",
+    "cors": "^2.8.5", 
+    "sqlite3": "^5.1.7"
+  }
+}
